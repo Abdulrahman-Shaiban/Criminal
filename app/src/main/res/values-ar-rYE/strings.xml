@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>%1$s!     The crime was discovered on %2$s. %3$s, and %4$s
+
+    <string name="app_name">الجريمه</string>
+    <string name="crime_title_hint">ادخل عنوان الجريمه</string>
+    <string name="crime_title_label">العنوان</string>
+    <string name="crime_details_label">التفاصيل</string>
+    <string name="crime_solved_label">تم الحل</string>
+    <string name="date_picker_title">تاريخ الجريمه</string>
+    <string name="time_picker_title">وقت الجريمه</string>
+    <string name="new_crime">اضافة جريمه</string>
+    <string name="show_subtitle">اظهار العدد</string>
+    <string name="hide_subtitle">اخفاء العدد</string>
+    <string name="subtitle_format">%1$d  جرائم</string>
+    <string name="crime_suspect_text">اختار المشتبه به</string>
+    <string name="crime_report_text">ارسال تقرير الجريمه</string>
+    <string name="crime_report_solved">تم حل الجريه</string>
+    <string name="crime_report_unsolved">لم يتم حل الجريمه</string>
+    <string name="crime_report_no_suspect">ليس هناك مشتبه به</string>
+    <string name="crime_report_suspect">" %s : المشتبه به هو"</string>
+    <string name="crime_report_subject">تقرير الجريمه</string>
+    <string name="send_report">ارسال تقرير الجريمه بواسطة</string>
+    <string name="call_suspect">اتصل بالمجرم</string>
+    <string name="crime_call_text">%s : اتصل</string>
+    <string name="crime_report">"%1$s!     The crime was discovered on %2$s. %3$s, and %4$s     "</string>
+
+</resources>
